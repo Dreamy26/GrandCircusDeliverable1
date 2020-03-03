@@ -1,0 +1,5 @@
+/Users/dreamy/Projects/newConsoleProject/newConsoleProject/bin/Debug/newConsoleProject.exe
+/Users/dreamy/Projects/newConsoleProject/newConsoleProject/bin/Debug/newConsoleProject.pdb
+/Users/dreamy/Projects/newConsoleProject/newConsoleProject/obj/Debug/newConsoleProject.csprojAssemblyReference.cache
+/Users/dreamy/Projects/newConsoleProject/newConsoleProject/obj/Debug/newConsoleProject.exe
+/Users/dreamy/Projects/newConsoleProject/newConsoleProject/obj/Debug/newConsoleProject.pdb

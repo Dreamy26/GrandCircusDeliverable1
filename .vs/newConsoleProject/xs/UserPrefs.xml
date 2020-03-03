@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{FFA6AE79-1E2F-41F9-8A84-0D6DF235B78C}|Default">
+  <MonoDevelop.Ide.ItemProperties.newConsoleProject PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench>
+    <Files>
+      <File FileName="newConsoleProject/Program.cs" Line="28" Column="65" />
+      <File FileName="newConsoleProject/groupSize/Equals.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="newConsoleProject" expanded="True">
+            <Node name="newConsoleProject" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
